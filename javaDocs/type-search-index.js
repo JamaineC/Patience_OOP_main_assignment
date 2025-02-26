@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"Card"},{"p":"uk.ac.aber.dcs.cs12320.cards.gui.javafx","l":"CardTable"},{"p":"<Unnamed>","l":"Game"},{"p":"<Unnamed>","l":"Player"}];updateSearchResults();
